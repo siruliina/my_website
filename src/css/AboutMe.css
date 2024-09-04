@@ -1,0 +1,7 @@
+/* Setting up a three column grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+    padding: 50px;
+}
