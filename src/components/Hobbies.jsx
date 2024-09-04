@@ -64,7 +64,7 @@ function Hobbies() {
                     <h4><b>Baking</b></h4>
                     <p>
                         Baking is like a big hug. I get to eat my delicious creations
-                        and invite people over to chat while enjoying a cup of coffee and a baked good.
+                        and invite people over to chat while enjoying a cup of coffee and baked goods.
                     </p>
                 </div>
             </div>
